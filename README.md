@@ -1,2 +1,2 @@
 # Charm
-Style &amp; Widgets for Flutter, useful for quick apps.
+Styles, Widgets & Utilities for Flutter, useful for quick apps.

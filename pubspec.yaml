@@ -1,11 +1,11 @@
 name: charm
 description: General utilities and extensions
-version: 1.0.0
+version: 1.0.1
+repository: https://github.com/ArcaneArts/charm
 environment:
   sdk: ">=2.7.0 <3.0.0"
   flutter: ">=1.17.0"
 dependencies:
-  flutter_neumorphic: ^3.0.4+1
   flutter:
     sdk: flutter
 dev_dependencies:
